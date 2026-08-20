@@ -21,7 +21,11 @@ Thumbs.db
 
 # Local/user-generated
 settings.json
+debug_frames/
 detection-model/
 
 # Model
 *.onnx
+
+# game file
+*.zip
