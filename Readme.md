@@ -24,7 +24,7 @@ works on NVIDIA, AMD, and Intel GPUs (falls back to CPU if none is available).
 ## For developers (run from source)
 
 ```bash
-git clone https://github.com/<your-username>/VRC-FISH.git
+git clone https://github.com/Kantheephob/vrc-fish-bot.git
 cd VRC-FISH
 pip install -r requirements.txt
 python src/main.py
